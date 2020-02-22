@@ -23,7 +23,7 @@
             <artifactId>svm</artifactId>
             <version>20.1.0-dev</version>
             <scope>system</scope>
-            <systemPath>${env.JAVA_HOME}/../graalvm-ce-java8-20.1.0-dev/jre/lib/boot/graal-sdk.jar</systemPath>
+            <systemPath>${env.JAVA_HOME}/jre/lib/boot/graal-sdk.jar</systemPath>
         </dependency>
     </dependencies>
 
